@@ -28,6 +28,7 @@
 	"privacy-help": "Help text for privacy form field.",
 	"end-date-label": "Form label for the 'end date and time' field.",
 	"start-date-label": "Form label for the 'start date and time' field.",
+	"datetime-formatted": "Form label for date time localization. Parameters:\n\n* $1 - Either end-date-label or start-date-label values \n* $2 Date Time",
 	"times-are-utc": "Help text for all time fields.",
 	"excluded-users": "Form label for the 'excluded users' field.",
 	"administrators": "Form label for the 'administrators' field.",
