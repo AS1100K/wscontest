@@ -24,6 +24,7 @@
 	"privacy-private": "Xisûsî (tenê ji admînan re, heta hetayê)",
 	"end-date-label": "Dîrok û wextê bidawîbûnê:",
 	"start-date-label": "Dîrok û wextê destpêkirinê:",
+	"datetime-formatted": "$1 $2 UTC",
 	"times-are-utc": "Wext bi qada zemanê ya UTCê ne.",
 	"excluded-users": "Bikarhênerên xaricgirtî:",
 	"administrators": "Rêveber:",

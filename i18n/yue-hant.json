@@ -21,6 +21,7 @@
 	"privacy-public": "公開",
 	"end-date-label": "結束日期同時間：",
 	"start-date-label": "開始日期同時間：",
+	"datetime-formatted": "$1 $2 UTC",
 	"times-are-utc": "用 UTC 時區。",
 	"administrators": "管理員：",
 	"one-username-per-line": "每行一個用户名。",

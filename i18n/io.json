@@ -18,6 +18,7 @@
 	"dates": "Dato:",
 	"end-date-label": "Dato e horo dil fino:",
 	"start-date-label": "Dato e horo dil komenco:",
+	"datetime-formatted": "$1 $2 UTC",
 	"times-are-utc": "Hori segun horo-zono UTC.",
 	"excluded-users": "Uzeri qui ne povas partoprenar:",
 	"administrators": "Administreri:",

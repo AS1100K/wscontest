@@ -26,6 +26,7 @@
 	"privacy-help": "Qui pote vider le scores del concurso (administratores pote sempre vider tote lor concursos).",
 	"end-date-label": "Data e hora de fin:",
 	"start-date-label": "Data e hora de initio:",
+	"datetime-formatted": "$1 $2 UTC",
 	"times-are-utc": "Le horas es in le fuso horari UTC.",
 	"excluded-users": "Usatores excludite:",
 	"administrators": "Administratores:",

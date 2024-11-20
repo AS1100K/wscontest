@@ -18,6 +18,7 @@
 	"dates": "Deiziad :",
 	"end-date-label": "Deiziad hag eur echuiñ:",
 	"start-date-label": "Deiziad hag eur kregiñ:",
+	"datetime-formatted": "$1 $2 UTC",
 	"times-are-utc": "Er werzhid-eur UTC emañ an eurioù.",
 	"excluded-users": "Implijerien skarzhet kuit :",
 	"administrators": "Merourien :",

@@ -31,6 +31,7 @@
 	"privacy-help": "Quién puede ver las puntuaciones de los concursos (los administradores siempre pueden ver todos sus concursos).",
 	"end-date-label": "Fecha y hora de finalización:",
 	"start-date-label": "Fecha y hora de inicio:",
+	"datetime-formatted": "$1 $2 UTC",
 	"times-are-utc": "Los horarios corresponden a UTC.",
 	"excluded-users": "Usuarios excluidos:",
 	"administrators": "Administradores:",

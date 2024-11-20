@@ -27,6 +27,7 @@
 	"privacy-help": "Wie kann d'Punktestänn vum Concours gesinn (Administrateuren kënnen ëmmer all hir Concourse kucken).",
 	"end-date-label": "Schlussdatum an -zäit:",
 	"start-date-label": "Ufanksdatum an -zäit:",
+	"datetime-formatted": "$1 $2 UTC",
 	"times-are-utc": "Auerzäite bezéie sech op d'UTC-Zäitzon.",
 	"excluded-users": "Ausgeschlosse Benotzer:",
 	"administrators": "Administrateuren:",

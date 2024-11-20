@@ -18,6 +18,7 @@
 	"dates": "Dato:",
 	"end-date-label": "Sluttdato og tid:",
 	"start-date-label": "Startdato og tid:",
+	"datetime-formatted": "$1 $2 UTC",
 	"times-are-utc": "Tidspunkt er i UTC-tid.",
 	"excluded-users": "Ekskluderte brukere",
 	"administrators": "Administratorer:",

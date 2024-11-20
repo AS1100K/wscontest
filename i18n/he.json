@@ -28,6 +28,7 @@
 	"privacy-help": "מי יכול לראות את ניקוד התחרות (מנהלים יכולים תמיד לראות את כל התחרויות שלהם).",
 	"end-date-label": "תאריך הסיום ושעתו:",
 	"start-date-label": "תאריך ההתחלה ושעתה:",
+	"datetime-formatted": "$1 $2 UTC",
 	"times-are-utc": "הזמנים הם בזמן אוניברסלי מתואם.",
 	"excluded-users": "משתמשים שלא נכללו:",
 	"administrators": "מנהלים:",

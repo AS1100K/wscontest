@@ -31,6 +31,7 @@
 	"privacy-help": "Siapa yang dapat melihat skor kontes (admin selalu dapat melihat semua kontes mereka).",
 	"end-date-label": "Tangga dan waktu berakhir:",
 	"start-date-label": "Tanggal dan waktu mulai:",
+	"datetime-formatted": "$1 $2 UTC",
 	"times-are-utc": "Waktu dalam zona waktu UTC.",
 	"excluded-users": "Pengguna yang dikecualikan:",
 	"administrators": "Pengurus:",

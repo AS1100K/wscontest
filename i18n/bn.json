@@ -21,6 +21,7 @@
 	"dates": "তারিখ",
 	"end-date-label": "শেষের তারিখ ও সময়:",
 	"start-date-label": "শুরুর তারিখ ও সময়:",
+	"datetime-formatted": "$1 $2 ইউটিসি",
 	"times-are-utc": "ইউটিসি সময়াঞ্চলে সময় রয়েছে।",
 	"excluded-users": "অন্তর্ভুক্ত নন এমন ব্যবহারকারী:",
 	"administrators": "প্রশাসক:",

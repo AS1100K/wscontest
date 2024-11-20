@@ -30,6 +30,7 @@
 	"privacy-help": "誰能查看競賽分數（管理員永遠可以查看所有競賽）。",
 	"end-date-label": "結束日期與時間：",
 	"start-date-label": "起始日期與時間：",
+	"datetime-formatted": "$1 $2 UTC",
 	"times-are-utc": "時間為 UTC 時區。",
 	"excluded-users": "排除的使用者：",
 	"administrators": "管理員：",

@@ -27,6 +27,7 @@
 	"privacy-help": "Vem som kan se tävlingspoäng (administratörer kan alltid se alla sina tävlingar).",
 	"end-date-label": "Slutdatum och -tid:",
 	"start-date-label": "Startdatum och -tid:",
+	"datetime-formatted": "$1 $2 UTC",
 	"times-are-utc": "Tidpunkter är i tidszonen UTC.",
 	"excluded-users": "Exkluderade användare:",
 	"administrators": "Administratörer:",

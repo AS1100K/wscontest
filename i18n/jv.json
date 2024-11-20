@@ -17,6 +17,7 @@
 	"dates": "Tanggal:",
 	"end-date-label": "Tanggal lan wektu rampungan:",
 	"start-date-label": "Tanggal lan wektu wiwitan:",
+	"datetime-formatted": "$1 $2 UTC",
 	"times-are-utc": "Wektu ing zona wektu UTC.",
 	"excluded-users": "Naraguna kang diwetokaké:",
 	"administrators": "Panata:",

@@ -25,6 +25,7 @@
 	"privacy-private": "خانگي (صرف منتظم، هميشه لاءِ)",
 	"end-date-label": "ختم ٿيڻ جي تاريخ ۽ وقت:",
 	"start-date-label": "شروعاتي تاريخ ۽ وقت:",
+	"datetime-formatted": "يو ٽي سي $2 $1",
 	"times-are-utc": "وقت UTC ٽائم زون ۾ آهن.",
 	"excluded-users": "خارج ٿيل استعمال ڪندڙ:",
 	"administrators": "منتظمين",

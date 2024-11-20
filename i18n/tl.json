@@ -19,6 +19,7 @@
 	"dates": "Petsa:",
 	"end-date-label": "Petsa at oras matatapos:",
 	"start-date-label": "Petsa at oras magsisimula:",
+	"datetime-formatted": "$1 $2 UTC",
 	"times-are-utc": "Nasa timezone na UTC ang mga oras.",
 	"excluded-users": "Mga bawal na tagagamit:",
 	"administrators": "Mga admin:",

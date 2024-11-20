@@ -25,6 +25,7 @@
 	"privacy-private": "Yksityinen (vain ylläpitäjät, ikuisesti)",
 	"end-date-label": "Päättymispäivä ja aika:",
 	"start-date-label": "Alkamispäivä ja aika:",
+	"datetime-formatted": "$1 $2 UTC",
 	"times-are-utc": "Ajat ovat UTC-aikavyöhykkeellä.",
 	"excluded-users": "Poissuljetut käyttäjät:",
 	"administrators": "Ylläpitäjät:",

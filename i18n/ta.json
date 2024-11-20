@@ -20,6 +20,7 @@
 	"dates": "தேதி:",
 	"end-date-label": "முடிவு தேதி மற்றும் நேரம்:",
 	"start-date-label": "தொடக்க தேதி மற்றும் நேரம்:",
+	"datetime-formatted": "$1 $2 UTC",
 	"times-are-utc": "நேரங்கள் UTC நேர மண்டலத்தில் உள்ளன.",
 	"excluded-users": "விலக்கப்பட்ட பயனர்கள்:",
 	"administrators": "நிர்வாகிகள்:",

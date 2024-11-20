@@ -27,6 +27,7 @@
 	"privacy-help": "ਮੁਕਾਬਲੇ ਦੇ ਸਕੋਰ ਕੌਣ ਦੇਖ ਸਕਦਾ ਹੈ (ਪ੍ਰਬੰਧਕ ਹਮੇਸ਼ਾ ਆਪਣੇ ਸਾਰੇ ਮੁਕਾਬਲੇ ਦੇਖ ਸਕਦੇ ਹਨ)।",
 	"end-date-label": "ਸਮਾਪਤੀ ਮਿਤੀ ਅਤੇ ਸਮਾਂ:",
 	"start-date-label": "ਸ਼ੁਰੂਆਤੀ ਮਿਤੀ ਅਤੇ ਸਮਾਂ:",
+	"datetime-formatted": "$1 $2 UTC",
 	"times-are-utc": "ਸਮਾਂ UTC ਟਾਈਮਜ਼ੋਨ ਵਿੱਚ ਹੈ।",
 	"excluded-users": "ਬਾਹਰ ਕੀਤੇ ਵਰਤੋਂਕਾਰ:",
 	"administrators": "ਪ੍ਰਬੰਧਕ:",

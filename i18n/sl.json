@@ -26,6 +26,7 @@
 	"privacy-help": "Kdo si lahko ogleda rezultate natečajev (administratorji si lahko vedno ogledajo vse svoje natečaje).",
 	"end-date-label": "Datum in ura konca:",
 	"start-date-label": "Datum in ura začetka:",
+	"datetime-formatted": "$1 $2 UTC",
 	"times-are-utc": "Ure so navedene za časovni pas UTC.",
 	"excluded-users": "Izključeni uporabniki:",
 	"administrators": "Administratorji:",

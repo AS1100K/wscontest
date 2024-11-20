@@ -19,6 +19,7 @@
 	"dates": "Data:",
 	"end-date-label": "Data e ora di fine:",
 	"start-date-label": "Data e ora di inizio:",
+	"datetime-formatted": "$1 $2 UTC",
 	"times-are-utc": "Gli orari sono in UTC.",
 	"excluded-users": "Utenti esclusi:",
 	"administrators": "Amministratori:",

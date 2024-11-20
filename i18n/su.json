@@ -18,6 +18,7 @@
 	"dates": "Titimangsa:",
 	"end-date-label": "Titimangsa anggeusan:",
 	"start-date-label": "Titimangsa mitembeyan:",
+	"datetime-formatted": "$1 $2 UTC",
 	"times-are-utc": "Titimangsa maké UTC.",
 	"excluded-users": "Pamaké nu diiwalkeun:",
 	"administrators": "Panatacalagara:",

@@ -28,6 +28,7 @@
 	"privacy-help": "Qui peut voir les scores des concours (les administrateurs peuvent toujours voir tous leurs concours).",
 	"end-date-label": "Date et heure de fin :",
 	"start-date-label": "Date et heure de début :",
+	"datetime-formatted": "$1 $2 UTC",
 	"times-are-utc": "Les heures sont dans le fuseau horaire UTC.",
 	"excluded-users": "Utilisateurs exclus :",
 	"administrators": "Administrateurs :",

@@ -19,6 +19,7 @@
 	"dates": "Dátum:",
 	"end-date-label": "Dátum a čas ukončenia:",
 	"start-date-label": "Dátum a čas začiatku:",
+	"datetime-formatted": "$1 $2 UTC",
 	"times-are-utc": "Časy sú v časovej zóne UTC (GMT).",
 	"excluded-users": "Vylúčení používatelia:",
 	"administrators": "Správcovia:",

@@ -12,6 +12,7 @@
 	"dates": "Dato:",
 	"end-date-label": "Slutdato og tid:",
 	"start-date-label": "Startdato og tid:",
+	"datetime-formatted": "$1 $2 UTC",
 	"excluded-users": "Ekskluderede brugere",
 	"administrators": "Administratorer:",
 	"one-username-per-line": "Et brugernavn per linje.",

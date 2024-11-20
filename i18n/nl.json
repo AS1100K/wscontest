@@ -29,6 +29,7 @@
 	"privacy-help": "Wie kan wedstrijdscores bekijken (moderators kunnen altijd al hun wedstrijden bekijken).",
 	"end-date-label": "Einddatum en -tijd:",
 	"start-date-label": "Begindatum en -tijd:",
+	"datetime-formatted": "$1 $2 UTC",
 	"times-are-utc": "Tijden zijn in de tijdzone UTC.",
 	"excluded-users": "Uitgesloten gebruikers:",
 	"administrators": "Beheerders:",

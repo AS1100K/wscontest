@@ -18,6 +18,7 @@
 	"dates": "Data:",
 	"end-date-label": "Data y hora de final:",
 	"start-date-label": "Data y hora de principiu:",
+	"datetime-formatted": "$1 $2 UTC",
 	"times-are-utc": "Los horarios tán na estaya horaria UTC.",
 	"excluded-users": "Usuarios escluyíos:",
 	"administrators": "Alministradores:",

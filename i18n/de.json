@@ -30,6 +30,7 @@
 	"privacy-help": "Wer kann die Ergebnisse von Wettbewerben einsehen (Administratoren können immer alle ihre Wettbewerbe einsehen).",
 	"end-date-label": "Enddatum und -zeit:",
 	"start-date-label": "Startdatum und -zeit:",
+	"datetime-formatted": "$1 $2 koordinierte Weltzeit",
 	"times-are-utc": "Zeiten sind in der UTC-Zeitzone.",
 	"excluded-users": "Ausgeschlossene Benutzer:",
 	"administrators": "Administratoren:",

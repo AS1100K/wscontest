@@ -18,6 +18,7 @@
 	"dates": "Сана:",
 	"end-date-label": "Замони охир:",
 	"start-date-label": "Вақти оғоз:",
+	"datetime-formatted": "$1 $2 UTC",
 	"times-are-utc": "Соат ба вақти UTC мебошад.",
 	"excluded-users": "Корбарони истисноӣ:",
 	"administrators": "Администраторҳо:",

@@ -33,6 +33,7 @@
 	"privacy-help": "谁能查看竞赛分数（管理员始终可以查看所有比赛）。",
 	"end-date-label": "结束日期与时间：",
 	"start-date-label": "起始日期与时间：",
+	"datetime-formatted": "$1 $2 世界标准时间 (UTC)",
 	"times-are-utc": "时间为UTC时区。",
 	"excluded-users": "排除的用户：",
 	"administrators": "管理员：",

@@ -23,6 +23,7 @@
 	"privacy-public": "Публічны",
 	"end-date-label": "Дата і час заканчэньня:",
 	"start-date-label": "Дата і час пачатку:",
+	"datetime-formatted": "$1 $2 UTC",
 	"times-are-utc": "Час паводле UTC.",
 	"excluded-users": "Выключаныя ўдзельнікі:",
 	"administrators": "Адміністратары:",

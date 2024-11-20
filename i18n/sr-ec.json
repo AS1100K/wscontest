@@ -25,6 +25,7 @@
 	"privacy-public": "Јавно",
 	"end-date-label": "Датум и време завршетка:",
 	"start-date-label": "Датум и време почетка:",
+	"datetime-formatted": "$1 $2 UTC",
 	"times-are-utc": "Времена су у временској зони UTC.",
 	"excluded-users": "Изузети корисници:",
 	"administrators": "Администратори:",

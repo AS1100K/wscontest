@@ -21,6 +21,7 @@
 	"dates": "मिति:",
 	"end-date-label": "समाप्ति मिति र समय:",
 	"start-date-label": "सुरु मिति र समय:",
+	"datetime-formatted": "$1 $2 युटिसी",
 	"times-are-utc": "समय युटिसी समय क्षेत्रमा छन्।",
 	"excluded-users": "सहभागी नगरिएका प्रयोगकर्ता:",
 	"administrators": "प्रवन्धकहरू:",

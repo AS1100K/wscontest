@@ -29,6 +29,7 @@
 	"privacy-help": "Yarışma puanlarını kimler görebilir (hizmetliler her zaman tüm yarışmalarını görüntüleyebilir).",
 	"end-date-label": "Bitiş tarihi ve saati:",
 	"start-date-label": "Başlangıç tarihi ve saati:",
+	"datetime-formatted": "$1 $2 UTC",
 	"times-are-utc": "Zaman UTC zaman diliminde.",
 	"excluded-users": "Hariç tutulan kullanıcılar:",
 	"administrators": "Yöneticiler:",

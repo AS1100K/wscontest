@@ -25,6 +25,7 @@
 	"privacy-help": "Siapa yang boleh melihat markah peraduan (penyelia sentiasa boleh melihat semua peraduan bawah penyeliaannya).",
 	"end-date-label": "Tarikh dan masa tamat:",
 	"start-date-label": "Tarikh dan masa mula:",
+	"datetime-formatted": "$1 $2 UTC",
 	"times-are-utc": "Masa dalam zon masa UTC.",
 	"excluded-users": "Pengguna yang dikecualikan:",
 	"administrators": "Penyelia",

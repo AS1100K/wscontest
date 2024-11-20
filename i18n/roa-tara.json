@@ -22,6 +22,7 @@
 	"privacy-public": "Pubbleche",
 	"end-date-label": "Date e ore de fine:",
 	"start-date-label": "Date e ore de inizie:",
+	"datetime-formatted": "$1 $2 UTC",
 	"times-are-utc": "Le orarie sò in UTC.",
 	"excluded-users": "Utinde escluse:",
 	"administrators": "Amministrature:",

@@ -17,6 +17,7 @@
 	"dates": "วันที่:",
 	"end-date-label": "วันและเวลาที่สิ้นสุด:",
 	"start-date-label": "วันและเวลาที่เริ่ม:",
+	"datetime-formatted": "$1 $2 เวลาสากลเชิงพิกัด",
 	"times-are-utc": "เวลาทั้งหมดเป็นเขตเวลายูทีซี",
 	"excluded-users": "ผู้ใช้ที่ได้รับการยกเว้น:",
 	"administrators": "ผู้ดูแลระบบ:",

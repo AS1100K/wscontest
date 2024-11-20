@@ -24,6 +24,7 @@
 	"privacy-help": "Siisay an makakahiling kan mga iskor sa patiribayan (parating mahihiling kan mga tagamato an gabos nindang patiribayan).",
 	"end-date-label": "Petsa nin katapusan asin oras:",
 	"start-date-label": "Petsa kan poon asin oras:",
+	"datetime-formatted": "$1 $2 UTC",
 	"times-are-utc": "An mga oras yaon sa kapanahonan nin UTC.",
 	"excluded-users": "Nakalain na mga paragamit:",
 	"administrators": "Mga tagamato:",

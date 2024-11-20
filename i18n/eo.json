@@ -18,6 +18,7 @@
 	"dates": "Dato:",
 	"end-date-label": "Finaj dato kaj tempo:",
 	"start-date-label": "Komencaj dato kaj tempo:",
+	"datetime-formatted": "$1 $2 UTC",
 	"times-are-utc": "Tempoj estas en horzono UTK.",
 	"excluded-users": "Ekskluzivitaj uzantoj:",
 	"administrators": "Administrantoj:",

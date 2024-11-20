@@ -19,6 +19,7 @@
 	"dates": "Data:",
 	"end-date-label": "Data i godzina zakończenia:",
 	"start-date-label": "Data i godzina rozpoczęcia:",
+	"datetime-formatted": "$1 $2 UTC",
 	"times-are-utc": "Czasy są podane w strefie czasowej UTC.",
 	"excluded-users": "Wykluczeni użytkownicy:",
 	"administrators": "Administratorzy:",

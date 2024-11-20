@@ -23,6 +23,7 @@
 	"privacy-public": "Público",
 	"end-date-label": "Data e hora de fim:",
 	"start-date-label": "Data e hora de início:",
+	"datetime-formatted": "$1 $2 UTC",
 	"times-are-utc": "As horas são no fuso horário UTC.",
 	"excluded-users": "Utilizadores excluídos:",
 	"administrators": "Administradores:",

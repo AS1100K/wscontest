@@ -26,6 +26,7 @@
 	"privacy-help": "Sira sané prasida nyingakin skor kontés (prajuru setata prasida nyingakin samian kontés ipun).",
 	"end-date-label": "Tanggal miwah kala untat:",
 	"start-date-label": "Tanggal miwah kala pangawit:",
+	"datetime-formatted": "$1 $2 UTC",
 	"times-are-utc": "Kala ring wewengkon galah UTC.",
 	"excluded-users": "Sang anganggé tiosan:",
 	"administrators": "Prajuru:",

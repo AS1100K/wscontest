@@ -27,6 +27,7 @@
 	"privacy-help": "Puananë mısabeqa kam eşkeno bıvêno (xızmetkari tım u tım mısabeqa pêroyın şenê bıvênê)",
 	"end-date-label": "Tarix û saeta qediyayışi:",
 	"start-date-label": "Tarix û saeta destpêkerdışi:",
+	"datetime-formatted": "$1 $2 UTC",
 	"times-are-utc": "Zeman wareyê UTC'yi de yo.",
 	"excluded-users": "Karberê teberkerdeyi:",
 	"administrators": "İdarekari",

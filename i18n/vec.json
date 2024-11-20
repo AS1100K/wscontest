@@ -17,6 +17,7 @@
 	"dates": "Data:",
 	"end-date-label": "Data e ora de fin:",
 	"start-date-label": "Data e ora de scumisio:",
+	"datetime-formatted": "$1 $2 UTC",
 	"times-are-utc": "I orari i xé in UTC.",
 	"excluded-users": "Utenti escludesti:",
 	"administrators": "Aministradori",
